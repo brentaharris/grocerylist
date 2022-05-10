@@ -3,15 +3,20 @@
     {
       "id": 1,
       "checked": false,
-      "item": "Almonds"
+      "item": "Pizza"
     },
     {
       "id": 2,
       "checked": false,
-      "item": "Pizza"
+      "item": "Cookies"
     },
     {
       "id": 3,
+      "checked": false,
+      "item": "Butter"
+    },
+    {
+      "id": 4,
       "checked": false,
       "item": "Bread"
     }
